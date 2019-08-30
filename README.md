@@ -1,4 +1,3 @@
-# About-Me
 
 ##  Repository Links
 - [Source Repository](https://github.com/mandapallisatish64/about-me)
@@ -16,7 +15,7 @@
  - [github](https://desktop.github.com/): To clone github content to local machine
  - [TortoiseGit](https://tortoisegit.org/download/): By using this tool we can publish,commit,push git code easily.
  
- ## Recommended Resources
+## Recommended Resources
  
  - [Mozilla Documentation for web development](https://developer.mozilla.org/en-US/docs/Learn)
  - [Tutorial Point](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
