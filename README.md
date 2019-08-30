@@ -21,9 +21,8 @@
  - [Tutorial Point](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
  - [w3 School Tutorial for web development](https://www.w3schools.com/whatis/)
  
- 
  ## Contributors
  
  Iam satishkumar presently I am pursuing Masters degree in Applied computer science
  
-  ![](satishkumar.jpg)
+  ![image](satishkumar.jpg)
