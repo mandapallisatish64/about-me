@@ -1,10 +1,10 @@
 # About-Me
 ##  Repository Links
-- [Source Repository](https://github.com/mandapallisatish64/temort)
+- [Source Repository](https://github.com/mandapallisatish64/about-me)
 - [Hosted Link](https://github.com/mandapallisatish64/temort)
 ## About
   
-  This repo will give information about myself and also basic steps 
+  This repo will give information about myself and also basic tools required to publish in github.It also contains resources for web development.
   
 ## Recomended Tools
  
