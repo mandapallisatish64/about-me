@@ -23,4 +23,4 @@
  ## Contributors
  
   Iam satishkumar presently I am pursuing Masters degree in Applied computer science
-  # [image](satishkumar.jpg)
+  ![](satishkumar.jpg)
