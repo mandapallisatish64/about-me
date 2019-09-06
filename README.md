@@ -1,3 +1,4 @@
+# About Me
 
 ##  Repository Links
 - [Source Repository](https://github.com/mandapallisatish64/about-me)
@@ -20,8 +21,7 @@
  - [Mozilla Documentation for web development](https://developer.mozilla.org/en-US/docs/Learn)
  - [Tutorial Point](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
  - [w3 School Tutorial for web development](https://www.w3schools.com/whatis/)
- 
- ## Contributors
+## Contributors
  
  Iam satishkumar presently and I am pursuing Masters degree in Applied computer science
  
