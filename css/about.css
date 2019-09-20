@@ -1,0 +1,65 @@
+body{
+    padding-top:30px;
+    background-color:#E6E6FA;
+    }
+    .contact{
+        padding-top:45px;
+        padding-bottom:40px;
+    }
+    .row1,.row2,.row3{
+        padding-bottom:30px;
+    }
+    main{
+        margin-top:30px;
+    }
+    .app{
+        padding-top:30px;
+    }
+    nav {
+        
+        background-color:burlywood;
+    }
+    .split-app{
+        padding-top:50px;
+        text-align:center;
+    }
+    .information,.experience,.projects{
+        padding-top:20px;
+    }
+    html,body{
+        height: 100%
+    }
+    nav li{
+        font-size:18px;
+    }
+    .footer-break{
+        border-top:1px solid black;
+    }
+   #profile{
+       padding-top:20px;
+   }
+   #footer-index{
+       
+       margin-top:60px;
+       
+       margin-bottom:0px;
+       background-color:black;
+   }
+   span:first-child{
+       padding-left:20px;
+   }
+   .total{
+       color:red;
+   }
+   .contact-inf{
+       padding-top:60px;
+       text-align:center;
+   }
+   #contact-footer{
+       margin-top:40px;
+       background-color:black;
+   }
+   #footer-app{
+       background-color:black;
+       margin-top:180px;
+   }

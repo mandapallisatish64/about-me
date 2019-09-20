@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="css/about.css">
+
+
+</head>
+<body>
+
+        <nav class="navbar navbar-fixed-top">
+
+                <div class="container">
+                    <ul class="nav navbar-nav navbar-expand-sm collapse navbar-collapse">
+                            <li> <a href="index.html"> <img width="50" height="50" class="img-circle" src="satishkumar.jpg" alt="satishkumar"/></a> </li>
+                        <li ><a href="index.html">Home</a></li>
+                        <li class="active"><a href="contact.html">contact</a></li>
+                        <li><a href="">My App</a></li>
+                        
+                      </ul>
+                </div>
+            </nav>
+            <header class="split-app"><h2>Split App</H2></header>
+            <section class="app">
+<div class="container">
+    <h4>This app will split the money amount yourself</h4>
+    <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-4">
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td>Amount in dollars:</td>
+                                <td><input type="number" class="amount"/>
+
+                            </tr>
+                            <tr>
+                                <td>Number of people:</td>
+                                <td><input type="number" class="people"/>
+                            </tr>
+                            <tr>
+                                <td class="total" colspan="2"></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <input type="button" class="calculate" value="calculate"/>
+                                </td>
+                            </tr>
+                        </tbody>
+                        </table>
+
+
+            </div>
+        
+    </div>
+    
+</div>
+</section>
+<footer id="footer-app">
+        <span>contact information:</span>
+        <span>mandapallisatish64@gmail.com</span>
+        <hr>
+    </footer>
+    <script>
+            function myFunction(){
+                console.log("enterddd");
+                var dollar=parseFloat(document.getElementsByClassName("amount")[0].value);
+        var people=parseInt(document.getElementsByClassName("people")[0].value);
+        var total=dollar/people;
+        document.getElementsByClassName("total")[0].innerHTML=`Each person have a share of ${total}`;
+        
+            }
+           document.querySelector(".calculate").addEventListener('click', myFunction)
+        </script>
+        </body>
+        
+        </html>
