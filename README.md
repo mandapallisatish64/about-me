@@ -26,6 +26,7 @@
  - [W3 Schools](https://www.w3schools.com/bootstrap/)
  - [hot jar](https://html.com/tags/aside/)
  - [Stack over flow](https://stackoverflow.com/questions/37533641/change-the-default-color-of-active-tab-bootstrap)
+ - [Json Placeholder](https://jsonplaceholder.typicode.com/)
  
 ## Contributors
  
