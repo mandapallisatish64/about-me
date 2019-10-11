@@ -22,6 +22,11 @@
  - [Tutorial Point](https://www.tutorialspoint.com/internet_technologies/websites_development.htm)
  - [w3 School Tutorial for web development](https://www.w3schools.com/whatis/)
  
+ ## References
+ - [W3 Schools](https://www.w3schools.com/bootstrap/)
+ - [hot jar](https://html.com/tags/aside/)
+ - [Stack over flow](https://stackoverflow.com/questions/37533641/change-the-default-color-of-active-tab-bootstrap)
+ 
 ## Contributors
  
  Iam satishkumar presently and I am pursuing Masters degree in Applied computer science
