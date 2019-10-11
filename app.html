@@ -18,14 +18,15 @@
 </head>
 <body>
 
-        <nav class="navbar navbar-fixed-top">
+        <nav class="navbar">
 
                 <div class="container">
-                    <ul class="nav navbar-nav navbar-expand-sm collapse navbar-collapse">
+                    <ul class="nav navbar-nav ">
                             <li> <a href="index.html"> <img width="50" height="50" class="img-circle" src="satishkumar.jpg" alt="satishkumar"/></a> </li>
                         <li ><a href="index.html">Home</a></li>
                         <li class="active"><a href="contact.html">contact</a></li>
                         <li><a href="">My App</a></li>
+                        <li><a href="test/qunit.html">Qunit</a></li>
                         
                       </ul>
                 </div>
@@ -64,6 +65,17 @@
             </div>
         
     </div>
+    <div class="row">
+        <div class="col-sm-2"></div>
+            <div class="col-sm-4">
+                <h3>Genrate user name using ajax</h3>
+                
+                
+                <input type="button" value="username" id="username"/>
+                
+                <p id="resultt" style="color:red"></p>
+                </div>
+    </div>
     
 </div>
 </section>
@@ -72,16 +84,9 @@
         <span>mandapallisatish64@gmail.com</span>
         <hr>
     </footer>
-    <script>
-            function myFunction(){
-                console.log("enterddd");
-                var dollar=parseFloat(document.getElementsByClassName("amount")[0].value);
-        var people=parseInt(document.getElementsByClassName("people")[0].value);
-        var total=dollar/people;
-        document.getElementsByClassName("total")[0].innerHTML=`Each person have a share of ${total}`;
-        
-            }
-           document.querySelector(".calculate").addEventListener('click', myFunction)
+    <script src="app.js">
+           
+           
         </script>
         </body>
         
